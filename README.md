@@ -1,4 +1,4 @@
-# Song-Website-Data-Analysis
+# Analysis-of-Song-website
 Analysis of new songs website data for extracting insights and business improvement.
 
 Analysis of new songs website data using Postgres SQL and Analytical SQL Functions to extract insights, business improvement, and understanding the relations between features.
